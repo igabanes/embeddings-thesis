@@ -2,7 +2,7 @@
 Training GloVe models with different window-size and symmetry
 
 This code has been adapted for python3 from the original in C
-by Pennington et al. (2014): https://github.com/stanfordnlp/GloVe.git
+by Pennington et al. (2014): https://github.com/stanfordnlp/GloVe
 '''
 
 import subprocess
