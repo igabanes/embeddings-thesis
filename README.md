@@ -1,6 +1,6 @@
 ## Training word embeddings with different context size and symmetry
 
-This code belongs to a Master's thesis titled "Analyzing How Context Size and Symmetry Influence Word Embedding Information".
+This code belongs to a Master's thesis titled "Analyzing How Context Size and Symmetry Influence Word Embedding Information" by Ines Gabanes Anuncibay.
 
 The project aimed to analyze the effect of these two parameters (context size and symmetry) and evaluate how well embeddings captured the notions of semantic similarity and relatedness at different scales. The models were trained with [GloVe](https://github.com/stanfordnlp/GloVe) with different context sizes, as well as placing the context window symmetrically and asymmetrically on the left; then, they were quantitatively evaluated through a similarity task, using WordSim-353 (for relatedness) and SimLex-999 (for semantic similarity) as benchmarks.
 
