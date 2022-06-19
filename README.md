@@ -1,1 +1,1 @@
-# embeddings-context-thesis
+# embeddings-thesis
